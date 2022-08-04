@@ -12,3 +12,6 @@ console.log('add from local 1149');
 
 const no = 'this is from web 1146';
 const no = 'this is from web 1146';
+
+
+const yes = 'this is from web 1146';

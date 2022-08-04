@@ -20,3 +20,5 @@ const yes = 'this is from local 1224';
 const yes = 'this is from web 1225';
 const yes = 'this is from web 1225';
 const yes = 'haha';
+
+let so = "bad";

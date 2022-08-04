@@ -17,5 +17,4 @@ const no = 'this is from local 1219';
 
 const yes = 'this is from web 1146';
 const yes = 'this is from local 1224';
-
-const yes = 'this is from local 1226';
+const yes = 'this is from web 1225';
